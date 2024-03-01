@@ -1,4 +1,4 @@
-# Mini-Racing-Game
+# Mini Racing Game
 
 A C program simulating a board game for two players. Players roll dice to move across a board with special tiles that either penalize or advance their progress. The goal is to navigate from the start to the finish line, overcoming penalties and using strategic moves.
 
